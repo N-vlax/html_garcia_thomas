@@ -1,0 +1,17 @@
+#container {
+
+display: flex
+
+} ;
+
+.cyan {
+    background-color: cyan;
+} ;
+
+.rouge {
+    background-color: red;
+} ;
+
+.orange {
+    background-color: orange;
+} ;
