@@ -1,9 +1,8 @@
 .container {
 
 width: 100%;
+flex-flow: row;
 display: flex
-flex table-column
-
 } 
 
 .box{
