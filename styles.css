@@ -1,17 +1,12 @@
-#container {
+.container {
 
+width: 100%;
 display: flex
 
-} ;
+} 
 
-.cyan {
-    background-color: cyan;
-} ;
+.box{
+    width: 100%;
+    text-align: center;
 
-.rouge {
-    background-color: red;
-} ;
-
-.orange {
-    background-color: orange;
-} ;
+}
